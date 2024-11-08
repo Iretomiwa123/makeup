@@ -320,17 +320,17 @@ opacity: 0;
         display: flex;
     }
     #app{
-        min-height: 99vh;
+        min-height: 96vh;
     }
     .carousel-item img {
-        height: 99vh;
+        height: 96vh;
     }
     .logo-head{
         display: none;
     }
     .footer{
         justify-content: center !important;
-        margin-top: -11rem !important;
+        margin-top: -14rem !important;
 
     }
     .caption-title{
