@@ -363,15 +363,15 @@ opacity: 0;
         display: block;
     }
     #app{
-        min-height: 100vh;
+        min-height: 96vh;
     }
     .carousel-item img {
-        height: 100vh;
+        height: 96vh;
         object-fit: cover;
     }
     .footer{
         justify-content: center !important;
-        margin-top: -12rem !important;
+        margin-top: -12.2rem !important;
 
     }
 }
