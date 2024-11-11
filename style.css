@@ -362,11 +362,11 @@ opacity: 0;
         display: block;
     }
     #app{
-        min-height: 91vh;
+        min-height: 92vh;
         overflow-y: hidden;
     }
     .carousel-item img {
-        height: 91vh;
+        height: 92vh;
         overflow-y: hidden;
         object-fit: cover;
     }
